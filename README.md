@@ -13,8 +13,8 @@ Note: If Latitude and Longititude is -1 or 0 or any out of india geography there
 
 Buisness Objectives :
 - Network Performance Monitoring : Comparison of Expected Performance verse Actual Performance. 
-- Enables Network Operators to compare their performance in comparison and invest accordingly to improve their marketshare. 
-  This would enable a competitive and fair marketplace across India. 
+- Enables Network Operators to compare their performance in comparison to each other & invest accordingly to improve their marketshare. 
+  This would ensure a competitive and fair marketplace across India. 
 - Support contextual direct marketing initiatives to prevent customer attrition in Area's with low network ratings.
  
 Model Output:
