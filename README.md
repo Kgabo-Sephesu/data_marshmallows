@@ -17,4 +17,5 @@ Buisness Objectives :
   This would enable a competitive and fair marketplace across India. 
  
  
-
+Model Output:
+- Prediction of Voice Call Quality Category given Operator, Network Type,  Lat , Long etc 
