@@ -8,4 +8,13 @@ The data has been released under public accessibility policy.
 
 The data is captured for various service providers, at multiple locations, network types 3G, 4G, 2G, ratings, coorditanes etc. The data attached is for two different months.
 
-Note: If Latitude and Longititude is -1 or 0 or any out of india geography there state should be null .It usually happens when an android user or apple user blocked the App to accesses their location or Android Apis which google provide are unable to capture lat or Lon
+Note: If Latitude and Longititude is -1 or 0 or any out of india geography there state should be null .It usually happens when an android user or apple user blocked the App to accesses their location or Android Apis which google provide are unable to capture lat or Lon.
+
+
+Buisness Objectives :
+- Network Performance Monitoring : Comparison of Expected Performance verse Actual Performance. 
+- Enables Network Operators to compare their performance in comparison and invest accordingly to improve their marketshare. 
+  This would enable a competitive and fair marketplace across India. 
+ 
+ 
+
